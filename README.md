@@ -1,2 +1,2 @@
-👋 Hi, my name is Azhgin Artem 👋
+👋 Hi, my name is Azhgin Artem 👋  
 💻 I'm a Front-End developer specialized on creating Web-Applications 💻
